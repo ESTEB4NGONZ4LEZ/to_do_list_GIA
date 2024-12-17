@@ -57,8 +57,8 @@ streamlit run app.py
 
 ### Resultado en SonarQube
 
-![Imagen 1](img\sonarqube_1.png)
-![Imagen 2](img\sonarqube_2.png)
+![Imagen 1](img/sonarqube_1.png)
+![Imagen 2](img/sonarqube_2.png)
 
 ## Autor
 Desarrollado por Fabian Esteban Becerra Gonzalez © 2024.
